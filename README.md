@@ -1,1 +1,4 @@
-# my-first-binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fgithub.io%2Fssummerlin%2Fmy-first-binder/HEAD)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/https%3A%2F%2Fgithub.io%2Fssummerlin%2Fmy-first-binder/HEAD
